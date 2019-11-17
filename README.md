@@ -14,8 +14,8 @@ Image API code is implemented in native iOS with Swift & images are fetched in R
 ## Main technologies used
 
 1. React Native
-2. Redux
-3. Redux-thunk
+2. Redux (for state management)
+3. Redux-thunk (middleware for handling async actions)
 4. iOS/Swift for Native Module code
 
 ## Installation
