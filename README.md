@@ -17,8 +17,8 @@ Image API code is implemented in native iOS with Swift & images are fetched in R
 2. Native Modules (for calling a native module method written in iOS)
 3. Redux (for state management)
 4. Redux-thunk (middleware for handling async actions)
-5. RN Material Dropdown
-6. RN Fast Image
+5. RN Fast Image (fast & performant image wrapper with caching mechanism)
+6. RN Material Dropdown (material design dropdown UI)
 
 ## Future Consideration
 
