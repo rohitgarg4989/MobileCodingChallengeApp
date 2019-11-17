@@ -11,12 +11,18 @@ Image API code is implemented in native iOS with Swift & images are fetched in R
 
 <https://5dbfc096e295da001400b90d.mockapi.io/codingChallenge/v1/images>
 
-## Main technologies used
+## Technologies used
 
 1. React Native
-2. Redux (for state management)
-3. Redux-thunk (middleware for handling async actions)
-4. iOS/Swift for Native Module code
+2. Native Modules (for calling a native module method written in iOS)
+3. Redux (for state management)
+4. Redux-thunk (middleware for handling async actions)
+5. RN Material Dropdown
+6. RN Fast Image
+
+## Future Considerations
+
+
 
 ## Installation
 
@@ -25,9 +31,12 @@ Execute in the root project folder:
 1. git clone <https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp.git>
 2. cd MobileCodingChallengeApp
 3. npm install
-4. react-native start
+4. npm install react-native-material-dropdown
+5. npm install react-native-fast-image
 
-### Run
+### Build & Run
+
+react-native start
 
 Once completed, start the iOS Simulator and run:
 
