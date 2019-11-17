@@ -7,7 +7,7 @@ Image API code is implemented in native iOS with Swift & images are fetched in R
 
 <https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp/blob/master/screenshots>
 
-## Image API
+## Mock API
 
 <https://5dbfc096e295da001400b90d.mockapi.io/codingChallenge/v1/images>
 
