@@ -1,12 +1,14 @@
-# Mobile_Coding_Challenge_APP
+# RN Mobile Coding Challenge APP
 
-This is an example React Native mobile app to build a listing page for image items. The main screen displays the list of images in grid-layout.
-Images are fetched using Native Modules, as the image API fetch code is implemented in native iOS.
+This is an example React Native mobile app to build a listing page for image items. The main screen displays the list of images in grid-layout. 
+Image API code is implemented in native iOS with Swift & images are fetched in RN using Native Modules.
 
 ## Screenshots
 
-![HomeScreen](https://github.com/ggeorgip/ny-times-rn-browser/blob/master/screenshots/MainScreen.PNG)
-![DetailsScreen](https://github.com/ggeorgip/ny-times-rn-browser/blob/master/screenshots/DetailsScreen.PNG)
+![Screenshot_1](https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp/tree/master/screenshots/Screen1.PNG)
+![Screenshot_2](https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp/tree/master/screenshots/Screen2.PNG)
+![Screenshot_3](https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp/tree/master/screenshots/Screen3.PNG)
+![Screenshot_4](https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp/tree/master/screenshots/Screen4.PNG)
 
 ## Image API
 
