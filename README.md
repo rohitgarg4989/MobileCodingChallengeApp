@@ -34,8 +34,11 @@ Clone or download the repo & execute in the root project folder:
 2. cd MobileCodingChallengeApp
 3. npm install
 4. cd ios && pod install
+5. cd ..
 
 ### Build & Run
+
+Execute in the root project folder:
 
 react-native start
 
