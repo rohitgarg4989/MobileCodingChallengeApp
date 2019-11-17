@@ -28,13 +28,12 @@ Image API code is implemented in native iOS with Swift & images are fetched in R
 
 ## Installation
 
-Execute in the root project folder:
+Clone or download the repo & execute in the root project folder:
 
 1. git clone <https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp.git>
 2. cd RN-MobileCodingChallengeApp
 3. npm install
-4. npm install react-native-material-dropdown
-5. npm install react-native-fast-image
+4. cd ios && pod install && cd .. 
 
 ### Build & Run
 
