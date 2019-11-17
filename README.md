@@ -1,11 +1,11 @@
-# RN Mobile Coding Challenge APP
+# Mobile Coding Challenge APP
 
 Implemented an example React Native mobile app to build a listing page for image items. The main screen displays the list of images in grid-layout. 
 Image API code is implemented in native iOS with Swift & images are fetched in RN using Native Modules.
 
 ## Screenshots
 
-<https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp/blob/master/screenshots>
+<https://github.com/rohitgarg4989/MobileCodingChallengeApp/blob/master/screenshots>
 
 ## Mock API
 
@@ -30,8 +30,8 @@ Image API code is implemented in native iOS with Swift & images are fetched in R
 
 Clone or download the repo & execute in the root project folder:
 
-1. git clone <https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp.git>
-2. cd RN-MobileCodingChallengeApp
+1. git clone <https://github.com/rohitgarg4989/MobileCodingChallengeApp.git>
+2. cd MobileCodingChallengeApp
 3. npm install
 4. cd ios && pod install && cd .. 
 
