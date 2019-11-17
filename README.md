@@ -20,9 +20,11 @@ Image API code is implemented in native iOS with Swift & images are fetched in R
 5. RN Material Dropdown
 6. RN Fast Image
 
-## Future Considerations
+## Technologies used
 
-
+1. Clean up code
+2. Proper styling with platform specific UI
+3. API mock test
 
 ## Installation
 
