@@ -5,10 +5,10 @@ Image API code is implemented in native iOS with Swift & images are fetched in R
 
 ## Screenshots
 
-![Screenshot_1](https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp/blob/master/screenshots/Screen1.PNG)
-![Screenshot_2](https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp/blob/master/screenshots/Screen2.PNG)
-![Screenshot_3](https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp/blob/master/screenshots/Screen3.PNG)
-![Screenshot_4](https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp/blob/master/screenshots/Screen4.PNG)
+![Screenshot_1](https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp/blob/master/screenshots/Screen1.png)
+![Screenshot_2](https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp/blob/master/screenshots/Screen2.png)
+![Screenshot_3](https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp/blob/master/screenshots/Screen3.png)
+![Screenshot_4](https://github.com/rohitgarg4989/RN-MobileCodingChallengeApp/blob/master/screenshots/Screen4.png)
 
 ## Image API
 
